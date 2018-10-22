@@ -1,18 +1,12 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+우리팀은 웹개발을 전문적으로 수행하는 팀으로써,
+서비스 도메인은 경영관리 및 어드민 페이지를 전문적으로 개발하고 있습니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+새로운 기술을 접목시키고 검증하여 개발되는 프로젝트에 녹이는 것을 좋아합니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+저희 회사 홈페이지로 놀러오세요. [(주)애버커스](http://iabacus.co.kr/)
